@@ -1,3 +1,5 @@
+# 使用方法
+
 将hosts文件下载到本地替换以下目录的hosts文件即可
 
 C:\Windows\System32\drivers\etc
