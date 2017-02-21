@@ -2,7 +2,13 @@
 
 将hosts文件下载到本地替换以下目录的hosts文件即可
 
-C:\Windows\System32\drivers\etc
+windows:
+
+>C:\Windows\System32\drivers\etc
+
+OSX:
+
+>/private/etc
 
 修改hosts后生效的方法：
 
