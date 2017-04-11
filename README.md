@@ -1,6 +1,6 @@
 # 使用方法
 
-将hosts文件下载到本地替换以下目录的hosts文件即可
+将hosts文件[下载](https://github.com/maoguy/LastestHosts/archive/master.zip)到本地替换以下目录的hosts文件即可
 
 windows:
 
